@@ -1,4 +1,4 @@
-README.md File for Getting and Cleaning Data Assignment
+# README.md File for Getting and Cleaning Data Assignment
 by Paolo G. Hilado
 
 
